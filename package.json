@@ -1,0 +1,21 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "cookie-parser": "^1.4.3",
+    "httpdispatcher": "^1.0.0",
+    "multer": "^1.2.0",
+    "save": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "getTicket?queue_id=1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
